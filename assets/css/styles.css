@@ -135,6 +135,10 @@ main {
   grid-area: populares;
   padding: 20px;
 }
+.receitas-populares h4 {
+  padding-bottom: 30px;
+  font-size: 19px;
+}
 .cards {
   display: grid;
   grid-template-columns: auto auto auto;
